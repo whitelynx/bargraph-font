@@ -1,0 +1,203 @@
+SplineFontDB: 3.0
+FontName: SlimBarGraph
+FullName: SlimBarGraph
+FamilyName: SlimBarGraph
+Weight: Regular
+Copyright: Copyright (c) 2017, David H. Bronke
+UComments: "2017-1-10: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -90
+UnderlineWidth: 45
+Ascent: 700
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 643 -332723595 9178308]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1484048332
+ModificationTime: 1484050458
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 81
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 81
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 58 22
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 65536 9
+
+StartChar: underscore
+Encoding: 95 95 0
+Width: 90
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 -100 m 5
+ 90 -100 l 5
+ 90 -200 l 5
+ 0 -200 l 5
+ 0 -100 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2581
+Encoding: 9601 9601 1
+Width: 90
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 5
+ 90 0 l 5
+ 90 -200 l 5
+ 0 -200 l 5
+ 0 0 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2582
+Encoding: 9602 9602 2
+Width: 90
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 100 m 5
+ 90 100 l 5
+ 90 -200 l 5
+ 0 -200 l 5
+ 0 100 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2583
+Encoding: 9603 9603 3
+Width: 90
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 200 m 5
+ 90 200 l 5
+ 90 -200 l 5
+ 0 -200 l 5
+ 0 200 l 5
+EndSplineSet
+EndChar
+
+StartChar: dnblock
+Encoding: 9604 9604 4
+Width: 90
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 300 m 5
+ 90 300 l 5
+ 90 -200 l 5
+ 0 -200 l 5
+ 0 300 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2585
+Encoding: 9605 9605 5
+Width: 90
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 400 m 5
+ 90 400 l 5
+ 90 -200 l 5
+ 0 -200 l 5
+ 0 400 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2586
+Encoding: 9606 9606 6
+Width: 90
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 500 m 5
+ 90 500 l 5
+ 90 -200 l 5
+ 0 -200 l 5
+ 0 500 l 5
+EndSplineSet
+EndChar
+
+StartChar: uni2587
+Encoding: 9607 9607 7
+Width: 90
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 600 m 5
+ 90 600 l 5
+ 90 -200 l 5
+ 0 -200 l 5
+ 0 600 l 5
+EndSplineSet
+EndChar
+
+StartChar: block
+Encoding: 9608 9608 8
+Width: 90
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 700 m 5
+ 90 700 l 5
+ 90 -200 l 5
+ 0 -200 l 5
+ 0 700 l 5
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
